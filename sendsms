@@ -29,7 +29,7 @@ test_flag = 1
 numbers = ('6598231873')
  
 # Define your message
-message = 'Test message sent from my Raspberry Pi'
+message = 'Patient is in distress! Latitude: 1.422193, Longitude: 103.839137, Altitude: -3.100000'
  
 #-----------------------------------------
 # No need to edit anything below this line
