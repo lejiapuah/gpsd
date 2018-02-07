@@ -56,3 +56,5 @@ if __name__ == '__main__':
     gpsp.running = False
     gpsp.join() # wait for the thread to finish what it's doing
   print "Done.\nExiting."
+  
+  a0c4e1d49cafe3a345a8f58f0675d812bb5ec06b55081fca1f604c380750af2a
